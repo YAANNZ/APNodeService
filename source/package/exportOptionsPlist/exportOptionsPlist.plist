@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<true/>
+	<key>embedOnDemandResourcesAssetPacksInBundle</key>
+	<true/>
+	<key>iCloudContainerEnvironment</key>
+	<string>Development</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>0</string>
+		<key>displayImageURL</key>
+		<string>0</string>
+		<key>fullSizeImageURL</key>
+		<string>0</string>
+	</dict>
+	<key>method</key>
+	<string>development</string>
+	<key>onDemandResourcesAssetPacksBaseURL</key>
+	<string>0</string>
+	<key>teamID</key>
+	<string>FX625MT89Z</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+	<key>uploadBitcode</key>
+	<true/>
+	<key>uploadSymbols</key>
+	<true/>
+</dict>
+</plist>
