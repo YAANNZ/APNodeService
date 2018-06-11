@@ -1,5 +1,5 @@
 # APNodeService
-## ———— 一个自动打包服务
+## —— 一个自动打包服务
 
 #### 用到了：
 * [node.js](https://nodejs.org/en/) （[express](http://www.expressjs.com.cn)）
